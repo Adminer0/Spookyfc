@@ -33,6 +33,7 @@ Spooky FC is an open-source, INAV-compatible flight controller built as a practi
 - Open-source hardware & firmware friendly
 
 - Beginner-friendly design with room for experimentation and mods
+![Uploading 12E3213image.png…]()
 
 
 
